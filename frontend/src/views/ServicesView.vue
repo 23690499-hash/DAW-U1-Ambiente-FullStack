@@ -2,7 +2,7 @@
   <section>
     <div class="section-header">
       <div>
-        <h2>Servicios</h2>docker compose restart frontend
+        <<h2>Servicios</h2>
         <p>
           Conoce nuestras soluciones tecnológicas disponibles.
         </p>
